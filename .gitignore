@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Build
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.DS_Store
